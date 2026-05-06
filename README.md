@@ -1,6 +1,14 @@
 <div align="center">
-<h1 align="center">Hola, soy Ismael 👋</h1>
+<h1 align="center">Hola, soy <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">Ismael</a> 👋</h1>
 </div>
+
+### Tecnologias
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,python,mysql,mongodb" />
+  </a>
+</p>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
