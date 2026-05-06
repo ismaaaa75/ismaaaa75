@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">Ismael</a> 👋</h1>
+<h1 align="center">Hola, soy <a href="www.linkedin.com/in/ismael-cruz-sánchez-51566b362">Ismael</a> 👋</h1>
 </div>
 
 ### Tecnologias
