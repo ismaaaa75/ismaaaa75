@@ -6,37 +6,47 @@
 
 - **Languages**:
   <p align="left">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,python"/>
-    </a>
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java"/></a>
+    &nbsp;
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python"/></a>
+    <br>
+    &nbsp;&nbsp;&nbsp;<sub>Java</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>Python</sub>
   </p>
     
 - **Front-End Development**:
   <p align="left">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js"/>
-    </a>
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html"/></a>
+    &nbsp;&nbsp;
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css"/></a>
+    &nbsp;&nbsp;
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js"/></a>
+    <br>
+    &nbsp;<sub>HTML5</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>CSS3</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>JavaScript</sub>
   </p>
 
 - **Data Bases**:
-    <p align="left">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-    </a>
+  <p align="left">
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql"/></a>
+    &nbsp;&nbsp;
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgresql"/></a>
+    &nbsp;&nbsp;
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb"/></a>
+    <br>
+    &nbsp;<sub>MySQL</sub>&nbsp;&nbsp;&nbsp;&nbsp;<sub>PostgreSQL</sub>&nbsp;&nbsp;<sub>MongoDB</sub>
   </p>
     
 - **Softwares and Tools**:
   <p align="left">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git"/>
-    </a>
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git"/></a>
+    <br>
+    &nbsp;&nbsp;&nbsp;<sub>Git</sub>
   </p>
 
 - **Extras**:
-    <p align="left">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=bash"/>
-    </a>
+  <p align="left">
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bash"/></a>
+    <br>
+    &nbsp;&nbsp;&nbsp;<sub>Bash</sub>
   </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
