@@ -1,16 +1,19 @@
-<div align="center">
-<h1 align="center">Hi, I am <a href="https://www.linkedin.com/in/ismael-cruz-sánchez-51566b362" target="_blank" rel="noopener noreferrer">Ismael</a> 👋</h1>
-</div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/ismael-cruz-sánchez-51566b362" target="_blank">
+    <img align="right" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/>
+  </a>
+  <h1 align="center">Hi, I am Ismael👋</h1>
+</p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 - **Languages**:
   <p align="left">
     <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java"/></a>
-    &nbsp;
+    &nbsp;&nbsp;
     <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python"/></a>
     <br>
-    &nbsp;&nbsp;&nbsp;<sub>Java</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>Python</sub>
+    &nbsp;&nbsp;&nbsp;<sub>Java</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>Python</sub>
   </p>
     
 - **Front-End Development**:
@@ -21,7 +24,7 @@
     &nbsp;&nbsp;
     <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js"/></a>
     <br>
-    &nbsp;<sub>HTML5</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>CSS3</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>JavaScript</sub>
+    &nbsp;<sub>HTML5</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>CSS3</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>JavaScript</sub>
   </p>
 
 - **Data Bases**:
