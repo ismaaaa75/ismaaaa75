@@ -8,9 +8,9 @@
 
 - **Languages**:
   <p align="left">
-    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java"/></a>
+    <img src="https://skillicons.dev/icons?i=java"/>
     &nbsp;&nbsp;
-    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python"/></a>
+    <img src="https://skillicons.dev/icons?i=python"/>
     <br>
     &nbsp;&nbsp;&nbsp;<sub>Java</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>Python</sub>
   </p>
