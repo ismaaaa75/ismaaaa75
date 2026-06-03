@@ -51,7 +51,7 @@
     &nbsp;&nbsp;&nbsp;<sub>Bash</sub>
   </p>
 
-### ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ismaaaa75&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
