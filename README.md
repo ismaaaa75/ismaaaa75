@@ -12,7 +12,7 @@
     &nbsp;&nbsp;
     <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python"/></a>
     <br>
-    &nbsp;&nbsp;&nbsp;<sub>Java</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>Python</sub>
+    &nbsp;&nbsp;&nbsp;<sub>Java</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>Python</sub>
   </p>
     
 - **Front-End Development**:
@@ -23,7 +23,7 @@
     &nbsp;&nbsp;
     <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js"/></a>
     <br>
-    &nbsp;<sub>HTML5</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>CSS3</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>JavaScript</sub>
+    &nbsp;<sub>HTML5</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>CSS3</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>JavaScript</sub>
   </p>
 
 - **Data Bases**:
@@ -34,14 +34,14 @@
     &nbsp;&nbsp;
     <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb"/></a>
     <br>
-    &nbsp;<sub>MySQL</sub>&nbsp;&nbsp;&nbsp;&nbsp;<sub>PostgreSQL</sub>&nbsp;&nbsp;<sub>MongoDB</sub>
+    &nbsp;<sub>MySQL</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>PostgreSQL</sub>&nbsp;&nbsp;&nbsp;&nbsp;<sub>MongoDB</sub>
   </p>
     
 - **Softwares and Tools**:
   <p align="left">
     <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git"/></a>
     <br>
-    &nbsp;&nbsp;&nbsp;<sub>Git</sub>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>Git</sub>
   </p>
 
 - **Extras**:
